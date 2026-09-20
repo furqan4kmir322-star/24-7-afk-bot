@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "FAKULAA_SMP.aternos.me",
-    "port": 25565,
-    "version": "1.20.1",
+    "port": 53646,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
